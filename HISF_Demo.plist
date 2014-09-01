@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hifly299.HISF-Demo</string>
+				<string>com.hifly299.zigbee.HISF-Demo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HFZ_demo</string>
+				<string>HF_Demon_zigbee</string>
 			</dict>
 		</dict>
 	</array>
